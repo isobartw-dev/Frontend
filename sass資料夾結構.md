@@ -1,4 +1,4 @@
-# SASS folder structure
+# sass資料夾結構
 
 使用 7-1 pattern，以下為樹狀結構範例(非專案檔案)
 
